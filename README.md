@@ -13,3 +13,6 @@
 3.  选择从**磁盘安装插件** (Install Plugin from Disk...) 或类似选项。
 4.  找到并导入你下载的 `.zip` 文件。
 5.  重启 IDE 以完成安装。
+
+显示效果
+<img width="846" height="423" alt="image" src="https://github.com/user-attachments/assets/2bbb7a22-c354-4bdb-86e0-08d3c3d2da35" />
