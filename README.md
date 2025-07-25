@@ -14,5 +14,15 @@
 4.  找到并导入你下载的 `.zip` 文件。
 5.  重启 IDE 以完成安装。
 
-显示效果
-<img width="846" height="423" alt="image" src="https://github.com/user-attachments/assets/2bbb7a22-c354-4bdb-86e0-08d3c3d2da35" />
+**显示效果：**
+
+<img width="702" height="183" alt="image" src="https://github.com/user-attachments/assets/6f341106-d8f7-487f-9ec8-c94ff69b2f2e" />
+
+
+**设置方法：**
+
+<img width="738" height="564" alt="image" src="https://github.com/user-attachments/assets/32da28b3-29f5-40d3-ba80-66591cabb5f0" />
+
+<img width="691" height="648" alt="image" src="https://github.com/user-attachments/assets/ec7739b7-ca8e-4745-b6ba-e507e8e19380" />
+
+**感谢使用！祝大家股市长虹**
